@@ -4,7 +4,6 @@ ID : 364411760005
 Group : MIT421
 """
 
-# input data
 
 # input() --> str
 

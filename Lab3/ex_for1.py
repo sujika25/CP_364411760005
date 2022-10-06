@@ -22,6 +22,6 @@ for x in range(5,101,5):
 
 # แสดงตัวเลขตั้งแต่ 1-100 ที่หารด้วย 3 และ 5 ลงตัว
 print(" ")
-for ป in range(1,101):
-    if x%3==0 and x%5==0:
+for  in range(1,101):
+    if x%3==0 and x%5==0
         print(x,end="-")
