@@ -10,3 +10,12 @@ Group : MIT421
 # • ถ้า op เป็น - ให้ return a-b
 # • ถ้า op เป็น * ให้ return a*b
 # • ถ้า op เป็น / ให้ return a/b
+
+a = int(input("function1 : "))
+b = int(input("function2 : "))
+op = str(input("function3 : "))
+def Calculator(a,b,op):
+    if a=+b:
+        print(a+b)
+    else:
+        print(a-b)
